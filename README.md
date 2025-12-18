@@ -48,6 +48,6 @@ Me enfoco en soluciones robustas y escalables:
 ---
 
 ### 📬 Contacto
-Estoy buscando activamente mi oportunidad de prácticas FCT (Marzo) con posibilidad de incorporación.
+Estoy buscando activamente mi oportunidad de prácticas FCT (Marzo 2026) con posibilidad de incorporación.
 
 [LinkedIn](https://www.linkedin.com/in/cesarbetancorcano/) • [Email](mailto:Betancor13@gmail.com)
