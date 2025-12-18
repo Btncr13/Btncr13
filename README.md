@@ -30,7 +30,7 @@ Me enfoco en soluciones robustas y escalables:
 * **Tech:** PHP, MySQL, JavaScript, HTML5/CSS3.
 * **Key:** Gestión de usuarios, carrito de compras y conexión a BBDD.
 * [➡ Ver Código](https://github.com/Btncr13/tienda_enfoque)
-* 
+
 **2. Wordle Game Logic**
 *Recreación del popular juego de lógica.*
 * **Tech:** Java.
