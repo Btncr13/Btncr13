@@ -21,7 +21,7 @@ Vengo de una trayectoria de **16 años como Encargado General** en logística. H
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=btncr13&layout=compact&theme=tokyonight)](https://github.com/btncr13)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=btncr13&theme=tokyonight&hide_border=true" alt="Racha de GitHub">
+  <img src="https://githubcard.com/btncr13.svg?d=Mp6SesVb" alt="Racha de GitHub">
 </p>
 
 ---
