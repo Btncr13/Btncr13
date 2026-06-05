@@ -16,10 +16,6 @@ Vengo de una trayectoria de **16 años como Encargado General** en logística. H
 
 ### 📊 Mis Estadísticas
 
-[![Estadísticas de César](https://github-readme-stats.vercel.app/api?username=btncr13&show_icons=true&theme=tokyonight&locale=es)](https://github.com/btncr13)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=btncr13&layout=compact&theme=tokyonight)](https://github.com/btncr13)
-
 <p align="center">
   <img src="https://githubcard.com/btncr13.svg?d=Mp6SesVb" alt="Racha de GitHub">
 </p>
