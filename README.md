@@ -45,7 +45,7 @@ Me enfoco en el Modern Data Stack y en soluciones web robustas:
 *Plataforma integral MVC para la gestión de comunidades de vecinos.*
 * **Tech:** PHP 7.4+, MySQL, JavaScript, Bootstrap 5.
 * **Key:** Control de acceso (RBAC), generación dinámica de PDFs, gestión de dependencias con Composer y UI/UX responsiva.
-* [➡ Ver Código](https://github.com/tu-usuario/gestfincas)
+* [➡ Ver Código](https://github.com/Btncr13/gestfincas)
   
 **3. E-Commerce Full Stack (Tienda Zapatillas)**
 *Sistema de gestión de pedidos y catálogo.*
@@ -72,4 +72,4 @@ Me enfoco en el Modern Data Stack y en soluciones web robustas:
 ### 📬 Contacto
 Actualmente trabajando como Data Engineer, pero siempre abierto a conectar, compartir conocimientos y debatir sobre tecnología.
 
-[LinkedIn](https://www.linkedin.com/in/cesarbetancorcano/) • [Email](mailto:Betancor13@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/cesarbetancorcano/) • [Email](mailto:betancor13@gmail.com)
