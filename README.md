@@ -27,7 +27,7 @@ Vengo de una trayectoria de **16 años como Encargado General** en logística. H
 Me enfoco en el Modern Data Stack y en soluciones web robustas:
 
 * **Data Engineering:** `Python` `SQL` `Snowflake` `dbt` `Power BI`
-* **Backend:** `Java` `PHP` `SQL / MySQL` `Nod.js`
+* **Backend:** `Java` `PHP` `SQL / MySQL` `Node.js`
 * **Frontend:** `HTML5` `CSS3` `JavaScript` `Boostrap`
 * **Arquitectura & Herramientas:** `Git` `Composer` `MVC` `Medallion Architecture`
   
