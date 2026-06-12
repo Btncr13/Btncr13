@@ -1,7 +1,7 @@
 ### Hola, soy César Betancor 👋
 
 #### > Data Engineer & Desarrollador Web | 16 años de experiencia en Gestión y Operaciones.
-_Granada, España._ • [🌐 Mi Portfolio Web](https://btncr13.github.io/portfolio/)
+_Granada, España._ • [🌐 Mi Portfolio Web](https://btncr13.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/cesarbetancorcano/) • [Email](mailto:betancor13@gmail.com)
 
 ---
 
