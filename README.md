@@ -8,7 +8,7 @@ _Granada, España._ • [🌐 Mi Portfolio Web](https://btncr13.github.io/portfo
 **Sobre mí:**
 
 Técnico Superior en Desarrollo de Aplicaciones Web (DAW) con especialización en Ingeniería de Datos. 
-Vengo de una trayectoria de **16 años como Encargado General** en logística. He reorientado mi carrera hacia la tecnología, trasladando la visión analítica, la constancia y el orden de mi experiencia previa al ecosistema de los datos y el desarrollo de software. Actualmente formo parte del equipo de **Cívica Software como Ingeniero de Datos**.
+Vengo de una trayectoria de **16 años como Encargado General** en logística. He reorientado mi carrera hacia la tecnología, trasladando la visión analítica, la constancia y el orden de mi experiencia previa al ecosistema de los datos y el desarrollo de software.
 
 > *"El código debe ser tan eficiente y ordenado como un almacén bien gestionado."*
 
@@ -27,8 +27,8 @@ Vengo de una trayectoria de **16 años como Encargado General** en logística. H
 Me enfoco en el Modern Data Stack y en soluciones web robustas:
 
 * **Data Engineering:** `Python` `SQL` `Snowflake` `dbt` `Power BI`
-* **Backend:** `Java` `PHP` `SQL / MySQL`
-* **Frontend:** `HTML5` `CSS3` `JavaScript`
+* **Backend:** `Java` `PHP` `SQL / MySQL` `Nod.js`
+* **Frontend:** `HTML5` `CSS3` `JavaScript` `Boostrap`
 * **Arquitectura & Herramientas:** `Git` `Composer` `MVC` `Medallion Architecture`
   
 ---
